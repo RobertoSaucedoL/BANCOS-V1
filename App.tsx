@@ -24,7 +24,7 @@ const INITIAL_LOANS: LoanParams[] = [
   },
   { 
     id: '2', 
-    name: 'REVOLVENTE BANAMEX', 
+    name: 'Revolvente Banamex', 
     principal: 6527242, 
     annualRate: 13.87, 
     years: 3, 
